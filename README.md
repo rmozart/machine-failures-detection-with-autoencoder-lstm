@@ -2,9 +2,6 @@
 
 This project is related to the process of detecting machine failures of NASA bearing dataset (https://ti.arc.nasa.gov/c/3/). In this case, we will use an algorithm called Autoencoder LSTM (Long Short-Term Memory). 
 
-[![Notebook](https://github.com/alefianrahman/machine-failures-detection-with-autoencoder-lstm/blob/master/notebook.ipynb)]
-[![Dataset](https://github.com/alefianrahman/machine-failures-detection-with-autoencoder-lstm/tree/master/dataset)]
-
 ## A Brief Introduction to Autoencoder LSTM 
 ### Autoencoder 
 ![Image of Autoencoder Process](https://miro.medium.com/max/1400/1*44eDEuZBEsmG_TCAKRI3Kw@2x.png)
