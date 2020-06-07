@@ -2,6 +2,9 @@
 
 This project is related to the process of detecting machine failures of NASA bearing dataset (https://ti.arc.nasa.gov/c/3/). In this case, we will use an algorithm called Autoencoder LSTM (Long Short-Term Memory). 
 
+[![Notebook](https://github.com/alefianrahman/machine-failures-detection-with-autoencoder-lstm/blob/master/notebook.ipynb)]
+[![Dataset](https://github.com/alefianrahman/machine-failures-detection-with-autoencoder-lstm/tree/master/dataset)]
+
 ## A Brief Introduction to Autoencoder LSTM 
 ### Autoencoder 
 ![Image of Autoencoder Process](https://miro.medium.com/max/1400/1*44eDEuZBEsmG_TCAKRI3Kw@2x.png)
@@ -16,7 +19,7 @@ Autoencoder is a sequence process of encoding and decoding data. This process is
 LSTM (Long-Short Term Memory) is a RNN (Recurrent Neural Network) process. This algoritm is different with the CNN (Convolutional Neural Network) or other network architecture. LSTM includes previous step (look back) to calculate/predict the next data. LSTM is usually be a part of time-series analysis tools. You can the read the details of LSTM in here as a reference: https://colah.github.io/posts/2015-08-Understanding-LSTMs/
 
 ## Dataset Description 
-The dataset is a pre-processed data taken from NASA repository (https://ti.arc.nasa.gov/c/3/) Set No. 2. Based on the reference documentation, the dataset measures the vibration signals in each 4 bearings of a machine with sampling rate 20 kHz. The data starts from 12th February 2004 to 19th February 2004. 
+The dataset is a pre-processed data taken from NASA repository (https://ti.arc.nasa.gov/c/3/) Set No. 2. Based on the reference documentation, the dataset measures the vibration signals in each 4 bearings of a machine with sampling rate 20 kHz. The data starts from 12<sup>th</sup> February 2004 to 19<sup>th</sup> February 2004. 
 
 <table>
     <tr>
