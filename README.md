@@ -47,7 +47,7 @@ The dataset is a pre-processed data taken from NASA repository (https://ti.arc.n
 
 ## Authors
 
-Alfian Rahman (linkedin.com/in/alefianrahman)
+Alfian Rahman (https://linkedin.com/in/alefianrahman)
 
 ## Reference 
 J. Lee, H. Qiu, G. Yu, J. Lin, and Rexnord Technical Services (2007). IMS, University of Cincinnati. "Bearing Data Set", NASA Ames Prognostics Data Repository (https://ti.arc.nasa.gov/c/3/), NASA Ames Research Center, Moffett Field, CA
