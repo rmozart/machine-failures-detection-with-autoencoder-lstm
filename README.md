@@ -13,7 +13,7 @@ Autoencoder is a sequence process of encoding and decoding data. This process is
 ![Image of LSTM Process](https://colah.github.io/posts/2015-08-Understanding-LSTMs/img/LSTM3-chain.png)
 <p align='center'>Source: https://colah.github.io/posts/2015-08-Understanding-LSTMs/img/LSTM3-chain.png</p>
 
-LSTM (Long-Short Term Memory) is a RNN (Recurrent Neural Network) process. This algoritm is different with the CNN (Convolutional Neural Network) or other network architecture. LSTM includes previous step (look back) to calculate/predict the next data. LSTM is usually be a part of time-series analysis tools. You can the read the details of LSTM in here as a reference: https://colah.github.io/posts/2015-08-Understanding-LSTMs/
+LSTM (Long-Short Term Memory) is a RNN (Recurrent Neural Network) process. This algoritm is different with the CNN (Convolutional Neural Network) or other network architecture. LSTM includes previous step (look back) to calculate/predict the next data. LSTM is usually be a part of time-series analysis tools. You can read the details of LSTM in here as a reference: https://colah.github.io/posts/2015-08-Understanding-LSTMs/
 
 ## Dataset Description 
 The dataset is a pre-processed data taken from NASA repository (https://ti.arc.nasa.gov/c/3/) Set No. 2. The original data has been processed by taking the mean absolute for each file. Based on the dataset documentation, the dataset measures the vibration signals in each 4 bearings of a machine with sampling rate 20 kHz. The data starts from 12<sup>th</sup> February 2004 to 19<sup>th</sup> February 2004. 
